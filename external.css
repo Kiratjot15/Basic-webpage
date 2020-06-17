@@ -1,0 +1,43 @@
+body{
+        background-color: #000000;
+	
+}
+p{
+        colour: #ff6347;
+		font-size: 40px;
+		color: white;
+}
+h1 { 
+	    color: #45b945;
+        font-size: 50px;
+}
+h2 { 
+	    color: #45b945;
+        background-color: #000000;
+		font-size: 50px;
+}
+h3 { 
+	    color: #45b945;
+        background-color: #000000;
+		font-size: 50px;
+}
+h4{ 
+	    color: #45b945;
+        background-color: #000000;
+		font-size: 50px;
+}
+.nav{
+	    position: fixed;
+		top: 0;
+		width: 100%;
+		padding: 8px;
+        background-color: #666;
+		height: 20px;
+}
+ 
+		
+
+
+	
+		
+		
